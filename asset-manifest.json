@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SubashGiri1995/subash-portfolio/static/css/main.d0acee29.chunk.css",
+    "main.js": "/SubashGiri1995/subash-portfolio/static/js/main.0a5aec5d.chunk.js",
+    "main.js.map": "/SubashGiri1995/subash-portfolio/static/js/main.0a5aec5d.chunk.js.map",
+    "runtime-main.js": "/SubashGiri1995/subash-portfolio/static/js/runtime-main.148d70ee.js",
+    "runtime-main.js.map": "/SubashGiri1995/subash-portfolio/static/js/runtime-main.148d70ee.js.map",
+    "static/js/2.5c20e2d1.chunk.js": "/SubashGiri1995/subash-portfolio/static/js/2.5c20e2d1.chunk.js",
+    "static/js/2.5c20e2d1.chunk.js.map": "/SubashGiri1995/subash-portfolio/static/js/2.5c20e2d1.chunk.js.map",
+    "index.html": "/SubashGiri1995/subash-portfolio/index.html",
+    "precache-manifest.1fbec7eeafcc8fbbaf733101599b5e90.js": "/SubashGiri1995/subash-portfolio/precache-manifest.1fbec7eeafcc8fbbaf733101599b5e90.js",
+    "service-worker.js": "/SubashGiri1995/subash-portfolio/service-worker.js",
+    "static/css/main.d0acee29.chunk.css.map": "/SubashGiri1995/subash-portfolio/static/css/main.d0acee29.chunk.css.map",
+    "static/js/2.5c20e2d1.chunk.js.LICENSE": "/SubashGiri1995/subash-portfolio/static/js/2.5c20e2d1.chunk.js.LICENSE",
+    "static/media/Subash-photo.jpeg": "/SubashGiri1995/subash-portfolio/static/media/Subash-photo.7948284f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.148d70ee.js",
+    "static/js/2.5c20e2d1.chunk.js",
+    "static/css/main.d0acee29.chunk.css",
+    "static/js/main.0a5aec5d.chunk.js"
+  ]
+}
